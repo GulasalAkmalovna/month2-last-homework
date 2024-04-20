@@ -71,7 +71,7 @@ a{
 .card:hover{
     box-shadow: rgb(83, 142, 224) 0px 4px 14px;
     background-color:hwb(215 71% 0% / 0.19);
-    transform: scale(1.08);
+    transform: scale(1.02);
 }
 .card-nav{
     display: flex;
